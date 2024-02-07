@@ -6,8 +6,6 @@
 
 欢迎关注公众号，或加好友入群交流。
 
-智能语友 助手
-![image](https://github.com/ethan668888/znyy/assets/159233497/60cb1841-54ab-41d7-a172-862d81cb741e?w=200&h=200)
 
-智能语友 公众号
-![image](https://github.com/ethan668888/znyy/assets/159233497/e44441c2-cffc-4d07-8c80-97027268a539)
+<img src="https://github.com/ethan668888/znyy/assets/159233497/60cb1841-54ab-41d7-a172-862d81cb741e" alt="智能语友助手" width="200" hight="200">
+<img src="https://github.com/ethan668888/znyy/assets/159233497/e44441c2-cffc-4d07-8c80-97027268a539" alt="智能语友公众号" width="200" hight="200">
